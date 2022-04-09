@@ -5,7 +5,15 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
 More to come!
 
 
-- [Lecture 1](slides/01_kickoff_2022.pdf)
+- [Lecture 1](slides/01_kickoff_2022.pdf): Lecture 1 was in-class
+- Lecture 2 will be online
+    - Inverted classroom videos (please watch before you come to class):
+    - Video 1: [Basic Concepts of ML](https://www.youtube.com/watch?v=-ch5qOiteRY)
+    - Video 2: [Supervised and Unsupervised ML](https://www.youtube.com/watch?v=kE5QZ8G_78c&t=339s)
+    - Video 3: [K nearest neighbors](https://www.youtube.com/watch?v=UqYde-LULfs)
+    - Video 4: [Overfitting](https://www.youtube.com/watch?v=AYI1J3EmuaU)
+    - Video 5: [Regularization](https://www.youtube.com/watch?v=C0xMTRynli8)
+    - Corresponding [IC slides]()
 
 
 ## Details
