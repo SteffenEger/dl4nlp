@@ -7,7 +7,7 @@ More to come!
 
 - [Lecture 1, "Introduction"](slides/01_kickoff_2022.pdf): Lecture 1 was in-class
 - Lecture 2, "ML principles" will be online
-    - Inverted classroom videos (please watch before you come to class):
+    - Inverted classroom videos (**watch before you come to class**):
     - Video 1: [Basic Concepts of ML](https://www.youtube.com/watch?v=-ch5qOiteRY)
     - Video 2: [Supervised and Unsupervised ML](https://www.youtube.com/watch?v=kE5QZ8G_78c&t=339s)
     - Video 3: [K nearest neighbors](https://www.youtube.com/watch?v=UqYde-LULfs)
