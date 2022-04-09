@@ -13,7 +13,7 @@ More to come!
     - Video 3: [K nearest neighbors](https://www.youtube.com/watch?v=UqYde-LULfs)
     - Video 4: [Overfitting](https://www.youtube.com/watch?v=AYI1J3EmuaU)
     - Video 5: [Regularization](https://www.youtube.com/watch?v=C0xMTRynli8)
-    - Corresponding [IC slides](slides/ml-principles-slides)
+    - Corresponding [IC slides](slides/ml-principles-slides.pdf)
 
 
 ## Details
