@@ -22,6 +22,7 @@ More to come!
  - Tutorial 1 (12.04.2022), 8:15-9:45
      - zoom link (temporary): [zoom](https://tu-darmstadt.zoom.us/j/8763992280?pwd=MW9NY2l4Yk1ydG9jOGwvSUlzT0c0Zz09)
      - Maybe we will move the tutorial to another slot on Tuesdays; I will send around a doodle as soon as possible
+     - [Exercise Sheet](tutorial/DL4NLP_2022-ex1.pdf)
 
 
 ## Details
