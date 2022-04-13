@@ -2,7 +2,14 @@
 
 Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Steffen Eger](steffen.eger@uni-bielefeld.de)
 
-More to come!
+## News
+
+- 13.04.2022: Lernraum+ is now available
+- 13.04.2022: Solutions for Tutorial 1 have been posted on Lernraum+
+- 13.04.2022: A survey for finding the date of the second part of the course (either lecture or tutorial) is linked on Lernraum+
+- 
+
+## Lecture
 
 
 - [Lecture 1 (07.04.2022), "Introduction"](slides/01_kickoff_2022.pdf): Lecture 1 is in-class
@@ -18,6 +25,8 @@ More to come!
 
 
 *********************************************
+
+## Tutorial
 
  - Tutorial 1 (12.04.2022), 8:15-9:45
      - zoom link (temporary): [zoom](https://tu-darmstadt.zoom.us/j/8763992280?pwd=MW9NY2l4Yk1ydG9jOGwvSUlzT0c0Zz09)
