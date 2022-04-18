@@ -4,6 +4,7 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
 
 ## News
 
+- 18.04.2022: Tutorial is moved to Mondays, 14-16. Next tutorial will take place on 25.04.2022
 - 13.04.2022: Lernraum is now available
 - 13.04.2022: Solutions for Tutorial 1 have been posted on Lernraum
 - 13.04.2022: A survey for finding the date of the second part of the course (either lecture or tutorial) is linked on Lernraum. It's open until this Sunday.
