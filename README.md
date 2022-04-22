@@ -26,11 +26,11 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
     - Corresponding [IC slides](slides/ml-principles-slides.pdf)
  - [Lecture 3 (21.04.2022), "Backpropagation"](slides/dl4nlp2022_03_backpropagation.pdf) is in-class
  - Lecture 4 (28.04.2022), "Word Embeddings Part 1" takes places online
-    - IC Video (**watch before ou come to class**):
+    - IC Video (**watch before you come to class**):
     - [Word2Vec, Stanford](https://www.youtube.com/watch?v=ERibwqs9p38&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
     - Corresponding [IC slides](slides/cs224n-2017-lecture2.pdf)
   - Lecture 5 (05.05.2022), "Dependency Parsing" takes place online
-    - IC Video (**watch before ou come to class**):
+    - IC Video (**watch before you come to class**):
     - [Dependency Parsing, Stanford](https://www.youtube.com/watch?v=PVShkZgXznc)
     - Corresponding [IC slides](slides/cs224n-2017-lecture6.pdf)
 
