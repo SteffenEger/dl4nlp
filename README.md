@@ -47,6 +47,7 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
 
 ## Details
 
+- In-class lectures take place in CITEC Raumnummer: 0.007  
 - ~Tutorial planned for Tuesdays 8:15 - 9:45~, now Mondays 14-16
 - Tutorials are on zoom
 - Lecture is hybrid, i.e., some lectures will take place live in Bielefeld, while the others will take place via zoom
