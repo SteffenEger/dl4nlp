@@ -5,7 +5,7 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
 ## News
 
 - 23.04.2022: I will try to also stream the next in-class lecture, if possible
-- 21.04.2022: Next Monday in the tutorial, we will present the topics from which you can choose. Try to be present, but if you cannot be present, check the slides.
+- 21.04.2022: **Next Monday in the tutorial, we will present the topics from which you can choose. Try to be present, but if you cannot be present, check the slides.**
     - Vote for your preferred topics within (roughly) 5 days following Monday.
 - 21.04.2022: Lecture slides (Lecture 3) are minorly updated - I typically update them after the lecture, please take a look
 - 18.04.2022: Tutorial is moved to Mondays, 14-16. Next tutorial will take place on 25.04.2022
