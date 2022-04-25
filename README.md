@@ -4,6 +4,7 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
 
 ## News
 
+- 25.04.2022: Voting for topics available on moodle; ends on Saturday 12:00.
 - 25.04.2022: New "Sprechstunde"
     - Mondays, 16:15-17:45 (let me know at least 1 hour in advance)
     - Thursdays, 15:30-17:00 (only if you let me know by Monday night at the very latest)
