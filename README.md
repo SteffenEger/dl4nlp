@@ -55,11 +55,14 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
      - [Topic selection](https://docs.google.com/presentation/d/1YTEfNOSGZwAOPEbil5sM3PsBVIIpGJAFsU4C5gFAdss/edit?usp=sharing)
      - [Exercise Sheet](tutorial/DL4NLP_2022_exercise2.pdf)
      - [Template code](tutorial/tutorial2.tgz)
-
+- Tutorial 3 (2.05.2022), 14:00-15:30
+     - zoom link (temporary): [zoom](https://tu-darmstadt.zoom.us/j/6822530753?pwd=VGdzOTFxQVVEeXZpWFF1aFlCN3FDUT09)
+     - [Exercise Sheet](tutorial/DL4NLP_2022-ex3.pdf)
+     - [Template code](tutorial/tutorial3.zip)
 
 ## Details
 
-- In-class lectures take place in CITEC Raumnummer: 0.007  
+- In-class lectures take place in CITEC Raumnummer: 0.007 
 - ~Tutorial planned for Tuesdays 8:15 - 9:45~, now Mondays 14-16
 - Tutorials are on zoom
 - Lecture is hybrid, i.e., some lectures will take place live in Bielefeld, while the others will take place via zoom
