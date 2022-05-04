@@ -4,6 +4,7 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
 
 ## News
 
+- 04.05.2022: There's a new zoom link for the lecture; see the moodle
 - 29.04.2022: See the moodle announcement concerning Lecture 5
 - 25.04.2022: Voting for topics available on moodle; ends on Saturday 12:00.
 - 25.04.2022: New "Sprechstunde"
