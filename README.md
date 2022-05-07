@@ -4,6 +4,7 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
 
 ## News
 
+- 04.05.2022: There's a new zoom link for the lecture; see the moodle
 - 29.04.2022: See the moodle announcement concerning Lecture 5
 - 25.04.2022: Voting for topics available on moodle; ends on Saturday 12:00.
 - 25.04.2022: New "Sprechstunde"
@@ -35,10 +36,11 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
     - IC Video (**watch before you come to class**):
     - [Word2Vec, Stanford](https://www.youtube.com/watch?v=ERibwqs9p38&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
     - Corresponding [IC slides](slides/cs224n-2017-lecture2.pdf)
-  - Lecture 5 (05.05.2022), "Dependency Parsing" takes place online
+  - [Lecture 5 (05.05.2022), "Dependency Parsing"](slides/dl4nlp2022_05_guidingquestions.pdf) takes place online
     - IC Video (**watch before you come to class**):
     - [Dependency Parsing, Stanford](https://www.youtube.com/watch?v=PVShkZgXznc)
     - Corresponding [IC slides](slides/cs224n-2017-lecture6.pdf)
+  - Lecture 6 (12.05.2022), "Word Embeddings Part 2" is in-class
 
 
 ---
