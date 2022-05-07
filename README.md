@@ -41,24 +41,30 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
     - Corresponding [IC slides](slides/cs224n-2017-lecture6.pdf)
 
 
-*********************************************
+---
 
 ## Tutorial
 
- - Tutorial 1 (12.04.2022), 8:15-9:45
-     - zoom link (temporary): [zoom](https://tu-darmstadt.zoom.us/j/8763992280?pwd=MW9NY2l4Yk1ydG9jOGwvSUlzT0c0Zz09)
-     - Maybe we will move the tutorial to another slot on Tuesdays; I will send around a doodle as soon as possible
-     - [Exercise Sheet](tutorial/DL4NLP_2022-ex1.pdf)
-
+- Tutorial 1 (12.04.2022), 8:15-9:45
+    - zoom link (temporary): [zoom](https://tu-darmstadt.zoom.us/j/8763992280?pwd=MW9NY2l4Yk1ydG9jOGwvSUlzT0c0Zz09)
+    - Maybe we will move the tutorial to another slot on Tuesdays; I will send around a doodle as soon as possible
+    - [Exercise Sheet](tutorial/DL4NLP_2022-ex1.pdf)
 - Tutorial 2 (25.04.2022), 14:15-15:45
-     - zoom link (temporary): [zoom](https://tu-darmstadt.zoom.us/j/8763992280?pwd=MW9NY2l4Yk1ydG9jOGwvSUlzT0c0Zz09)
-     - [Topic selection](https://docs.google.com/presentation/d/1YTEfNOSGZwAOPEbil5sM3PsBVIIpGJAFsU4C5gFAdss/edit?usp=sharing)
-     - [Exercise Sheet](tutorial/DL4NLP_2022_exercise2.pdf)
-     - [Template code](tutorial/tutorial2.tgz)
+    - zoom link (temporary): [zoom](https://tu-darmstadt.zoom.us/j/8763992280?pwd=MW9NY2l4Yk1ydG9jOGwvSUlzT0c0Zz09)
+    - [Topic selection](https://docs.google.com/presentation/d/1YTEfNOSGZwAOPEbil5sM3PsBVIIpGJAFsU4C5gFAdss/edit?usp=sharing)
+    - [Exercise Sheet](tutorial/DL4NLP_2022_exercise2.pdf)
+    - [Template code](tutorial/tutorial2.tgz)
 - Tutorial 3 (2.05.2022), 14:00-15:30
-     - zoom link (temporary): [zoom](https://tu-darmstadt.zoom.us/j/6822530753?pwd=VGdzOTFxQVVEeXZpWFF1aFlCN3FDUT09)
-     - [Exercise Sheet](tutorial/DL4NLP_2022-ex3.pdf)
-     - [Template code](tutorial/tutorial3.zip)
+    - zoom link (temporary): [zoom](https://tu-darmstadt.zoom.us/j/6822530753?pwd=VGdzOTFxQVVEeXZpWFF1aFlCN3FDUT09)
+    - [Exercise Sheet](tutorial/DL4NLP_2022-ex3.pdf)
+    - [Template code](tutorial/tutorial3.zip)
+* Tutorial 4 (9.05.2022), 14:15,15:45
+  If you want to prepare for the tutorial you can already read the overview of
+  [TensorFlow basics](https://www.tensorflow.org/guide/basics), and the
+  quickstart on [Keras
+  Sequential](https://www.tensorflow.org/tutorials/quickstart/beginner) and
+  [Keras subclassing](https://www.tensorflow.org/tutorials/quickstart/advanced)
+  APIs.
 
 ## Details
 
