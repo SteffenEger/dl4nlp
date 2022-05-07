@@ -60,13 +60,9 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
     - zoom link (temporary): [zoom](https://tu-darmstadt.zoom.us/j/6822530753?pwd=VGdzOTFxQVVEeXZpWFF1aFlCN3FDUT09)
     - [Exercise Sheet](tutorial/DL4NLP_2022-ex3.pdf)
     - [Template code](tutorial/tutorial3.zip)
-* Tutorial 4 (9.05.2022), 14:15,15:45
-    * If you want to prepare for the tutorial you can already read the overview of
-  [TensorFlow basics](https://www.tensorflow.org/guide/basics), and the
-  quickstart on [Keras
-  Sequential](https://www.tensorflow.org/tutorials/quickstart/beginner) and
-  [Keras subclassing](https://www.tensorflow.org/tutorials/quickstart/advanced)
-  APIs.
+* Tutorial 4 (9.05.2022), 14:15-15:45
+    - [Exercise Sheet](tutorial/DL4NLP_2022-ex4.pdf)
+    - [Template code](tutorial/tutorial4.zip)
 
 ## Details
 
