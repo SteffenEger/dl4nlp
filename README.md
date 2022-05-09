@@ -61,6 +61,7 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
     - [Exercise Sheet](tutorial/DL4NLP_2022-ex3.pdf)
     - [Template code](tutorial/tutorial3.zip)
 * Tutorial 4 (9.05.2022), 14:15-15:45
+    - zoom link (recurring): [zoom](https://tu-darmstadt.zoom.us/j/63329063574?pwd=RW1Ec3NFZFA3SGY3WDMzK0ZFVG5ZUT09)
     - [Exercise Sheet](tutorial/DL4NLP_2022-ex4.pdf)
     - [Template code](tutorial/tutorial4.zip)
 
