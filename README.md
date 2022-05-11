@@ -40,7 +40,7 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
     - IC Video (**watch before you come to class**):
     - [Dependency Parsing, Stanford](https://www.youtube.com/watch?v=PVShkZgXznc)
     - Corresponding [IC slides](slides/cs224n-2017-lecture6.pdf)
-  - [Lecture 6 (12.05.2022)](slides/dl4nlp2022_06_WordEmbeddings2.pdf), "Word Embeddings Part 2" takes place online
+  - [Lecture 6 (12.05.2022), "Word Embeddings Part 2"](slides/dl4nlp2022_06_WordEmbeddings2.pdf) takes place online
     - Optional background video: [BERT](https://www.youtube.com/watch?v=xI0HHN5XKDo)
 
 
