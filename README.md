@@ -92,5 +92,5 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
 
 ### Templates
 
-- [Term paper](https://www.overleaf.com/read/pxkbctyfwqxh): **Mandatory**
-- [Presentations](https://docs.google.com/presentation/d/1FHcGkrjzkwL0F1zf1zwCesaXSsRVj_kS29Pf0l7bMC8/edit?usp=sharing): _Optional_
+- [Term paper](https://www.overleaf.com/read/pxkbctyfwqxh): **Mandatory**, you must use this template 
+- [Presentations](https://docs.google.com/presentation/d/1FHcGkrjzkwL0F1zf1zwCesaXSsRVj_kS29Pf0l7bMC8/edit?usp=sharing): _Optional_, you may use this template or another one of your own choice
