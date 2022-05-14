@@ -78,3 +78,15 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
 - To pass the course, you need to work on an NLP problem (with deep learning), write a term-paper (8-10 pages) and present
    - You can present on Mondays or on Thursdays
 - Group work is in principle allowed
+
+## Resources
+
+### How to make good presentations
+
+- [Video 1](https://www.youtube.com/watch?v=Hp7Id3Yb9XQ)
+- [Video 2](https://www.youtube.com/watch?v=SFxVihJ1KSo)
+
+### How to write scientifically
+
+- [Video](https://www.youtube.com/watch?v=x33Km7hRzP0&list=PLGNyy-rO8GoM7uUxVfYJbccEO8eNFfr1M)
+
