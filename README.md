@@ -42,7 +42,7 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
     - Corresponding [IC slides](slides/cs224n-2017-lecture6.pdf)
   - [Lecture 6 (12.05.2022), "Word Embeddings Part 2"](slides/dl4nlp2022_06_WordEmbeddings2.pdf) takes place online
     - Optional background video: [BERT](https://www.youtube.com/watch?v=xI0HHN5XKDo)
-  - Lecture 7 (19.05.2022), "Word Embeddings Part 3" is in-class (hybrid streaming, if possible)
+  - [Lecture 7 (19.05.2022), "Word Embeddings Part 3"](slides/dl4nlp2022_07_WordEmbeddings3.pdf) is in-class (hybrid streaming, if possible)
   - Lecutre 8 (02.06.2022), "Convolutional Neural Networks" is in-class (hybrid streaming, if possible)
 
 
