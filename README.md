@@ -46,7 +46,8 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
   - [Lecture 6 (12.05.2022), "Word Embeddings Part 2"](slides/dl4nlp2022_06_WordEmbeddings2.pdf) takes place online
     - Optional background video: [BERT](https://www.youtube.com/watch?v=xI0HHN5XKDo)
   - [Lecture 7 (19.05.2022), "Word Embeddings Part 3"](slides/dl4nlp2022_07_WordEmbeddings3.pdf) is in-class (hybrid streaming, if possible)
-  - Lecture 8 (02.06.2022), "Convolutional Neural Networks" is in-class (hybrid streaming, if possible)
+  - [Lecture 8 (02.06.2022), "Convolutional Neural Networks"](slides/dl4nlp2022_08_ConvNet.pdf) is in-class (hybrid streaming, if possible)
+    - **Note**: for hybrid streaming we will use the [zoom link of the tutorial](https://tu-darmstadt.zoom.us/j/63329063574?pwd=RW1Ec3NFZFA3SGY3WDMzK0ZFVG5ZUT09)
   - Lecture 9 (09.06.2022), "Recurrent Neural Networks" is in-class (hybrid streaming, if possible)
 
 
@@ -79,6 +80,9 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
     - zoom link (recurring): [zoom](https://tu-darmstadt.zoom.us/j/63329063574?pwd=RW1Ec3NFZFA3SGY3WDMzK0ZFVG5ZUT09)
     - [Exercise Sheet](tutorial/DL4NLP_2022-ex6.pdf)
     - [Template code](tutorial/tutorial6.zip) (updated)
+* Tutorial 7 (2.06.2022), 13:15-13:45
+    - zoom link (recurring): [zoom](https://tu-darmstadt.zoom.us/j/63329063574?pwd=RW1Ec3NFZFA3SGY3WDMzK0ZFVG5ZUT09)
+    - [Exercise Sheet](tutorial/DL4NLP_2022-ex7.pdf)
 
 ## Details
 
