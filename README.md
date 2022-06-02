@@ -4,6 +4,7 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
 
 ## News
 
+- 02.06.2022: New zoom for today's lecture (only this time)
 - 22.05.2022: tutorial on 30.05. will be a general QA session on the structure of term papers and presentations
 - 22.05.2022: there is no tutorial on 6.06., as it's a holiday. The class on 02.06. will cover both lecture and tutorial elements as a replacement
 - 22.05.2022: voting for presentation slots is open next week; see the moodle 
