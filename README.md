@@ -50,6 +50,9 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
   - [Lecture 8 (02.06.2022), "Convolutional Neural Networks"](slides/dl4nlp2022_08_ConvNet.pdf) is in-class (hybrid streaming, if possible)
     - **Note**: for hybrid streaming we will use the [zoom link of the tutorial](https://tu-darmstadt.zoom.us/j/63329063574?pwd=RW1Ec3NFZFA3SGY3WDMzK0ZFVG5ZUT09)
   - Lecture 9 (09.06.2022), "Recurrent Neural Networks" is in-class (hybrid streaming, if possible)
+  - Lecture 10 (23.06.2022), "Sequence-to-Sequence Models, Text Generation, Evaluation Metrics" is online
+  - Lecture 11 (04.07.2022), "Efficiency, Explainability, Adversarial Attacks" is online
+  - Lecture 12 (14.07.2022), "Guest Lecture" is online
 
 
 ---
