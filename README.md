@@ -53,6 +53,7 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
   - Lecture 10 (23.06.2022), "Sequence-to-Sequence Models, Text Generation, Evaluation Metrics" is online
     - Background videos: 
          - [Stanford 2021 "Translation, Seq2Seq, Attention"](https://www.youtube.com/watch?v=wzfWHP6SXxY)
+         - [Transformers Explained](https://www.youtube.com/watch?v=4Bdc55j80l8)
   - Lecture 11 (04.07.2022), "Efficiency, Explainability, Adversarial Attacks" is online
   - Lecture 12 (14.07.2022), "Guest Lecture" is online
 
