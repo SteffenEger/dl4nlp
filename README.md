@@ -126,4 +126,4 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
 
 ### Previous good term papers
 
-See e.g. https://github.com/SteffenEger/dldh/ (click through the years for the "Best term papers" in each)
+See e.g. https://github.com/SteffenEger/dldh/ (click through the years for the "Best term papers" in each year)
