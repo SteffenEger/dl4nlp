@@ -52,7 +52,7 @@ Course at University of Bielefeld, held in Summer Semester 2022. Lecturer: [Stef
   - [Lecture 8 (02.06.2022), "Convolutional Neural Networks"](slides/dl4nlp2022_08_ConvNet.pdf) is in-class (hybrid streaming, if possible)
     - **Note**: for hybrid streaming we will use the [zoom link of the tutorial](https://tu-darmstadt.zoom.us/j/63329063574?pwd=RW1Ec3NFZFA3SGY3WDMzK0ZFVG5ZUT09)
   - [Lecture 9 (09.06.2022), "Recurrent Neural Networks"](slides/dl4nlp2022_09_RNNs.pdf) is in-class (hybrid streaming, if possible)
-  - Lecture 10 (23.06.2022), "Sequence-to-Sequence Models, Text Generation, Evaluation Metrics" is online: [part1](slides/dl4nlp2022_10_seq2seq.pdf), [part2](https://docs.google.com/presentation/d/1Poc7AS4vKDPrfbRZHYn0MhgPVmJUSik3tT4irwqRun4/edit?usp=sharing)
+  - Lecture 10 (23.06.2022), "Sequence-to-Sequence Models, Text Generation, Evaluation Metrics" is online: [part1](https://drive.google.com/file/d/1C_KPIzjzM_eEf-5Q3tdF7cyXTS0tTtlr/view?usp=sharing), [part2](https://docs.google.com/presentation/d/1Poc7AS4vKDPrfbRZHYn0MhgPVmJUSik3tT4irwqRun4/edit?usp=sharing)
     - Background videos: 
          - [Stanford 2021 "Translation, Seq2Seq, Attention"](https://www.youtube.com/watch?v=wzfWHP6SXxY)
          - [Transformers Explained](https://www.youtube.com/watch?v=4Bdc55j80l8)
